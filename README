@@ -1,0 +1,5 @@
+This plugin patches Rails 2.0.2 to allow integration tests to upload multipart forms.
+
+This comes from Rails changeset 8978 http://dev.rubyonrails.org/changeset/8978
+
+This code is on edge rails, and this plugin is temporary for those using 2.0.2
